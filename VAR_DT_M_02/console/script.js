@@ -17,3 +17,6 @@ console.groupEnd()
 
 const styles ='background-color: #fff; color: #122391;';
 console.log('%cfirst', styles);
+
+
+/console-script.jsoutput --see screenshot in mentioned image for output / 
