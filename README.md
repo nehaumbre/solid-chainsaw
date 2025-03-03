@@ -20,3 +20,4 @@ CHAP 2: Variables, Data types, Methods and more
 USING the console:
 * shortcut to open console on chrome : ctrl  + Shift + J
 * ctrl + L to clear console
+* Downloaded extension JS ES6 snippets -> shortcut for console.log ...type..clg + tab
