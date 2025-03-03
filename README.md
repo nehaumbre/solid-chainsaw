@@ -23,6 +23,13 @@ USING the console:
 * Downloaded extension JS ES6 snippets -> shortcut for console.log ...type..clg + tab
 
 
+
 Comments and shortcuts
 Alt + up arrow/ down arrow - to move a line up/down
 ~ + up/down arrow to copy and paste the current line up or down 
+select a line of common code and do ctrl + d to selct the occurences for multiline edit
+
+
+===========================================================================================
+VARIABLES and Constants
+==========================================================================================
