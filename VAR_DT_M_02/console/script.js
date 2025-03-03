@@ -4,9 +4,11 @@ console.log(20 , "hello", true);
 const j= 4
 
 console.log(j);
+console.log(j);
+console.log(j);
 console.log('first');
 console.error('alert');
-console.warn("warning")
+console.warn("warning");
 console.table({name:"ssbshb", email:"ndbahbdjb"} )
 
 console.group('simple')
