@@ -83,3 +83,22 @@ console.log(roof, typeof roof);
 //Primitive v/s Reference types
 //Primitive Types: Stored directly in the "stack", where it is accessed from 
 //Reference types: Stored in heaps and accessed by reference
+
+//values stored on the stack
+const name ='djj';
+const age = '30';
+let newName = name;
+newName ='hhh';
+console.log(name, newName);
+//Console output: djj hhh
+
+//Values in heap
+const persons = {
+    name : "dojacat",
+    age :50,
+}
+let NewPersons = persons;
+NewPersons.name = 'pooja';
+console.log(persons, NewPersons);
+//Output:{name: 'pooja', age: 50} {name: 'pooja', age: 50}
+//see daigram in folder stackandheap.png for reference 
