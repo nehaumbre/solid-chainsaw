@@ -33,3 +33,8 @@ select a line of common code and do ctrl + d to selct the occurences for multili
 ===========================================================================================
 VARIABLES and Constants
 ==========================================================================================
+ways to declare variables: * var * let  * const
+Always initialize variables before using : see example in script.js in vars folder
+Naming conventions :
+Letters,numbers,underscore,$(dollar sign)
+Cant start with a no
