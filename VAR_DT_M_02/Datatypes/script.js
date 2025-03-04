@@ -1,5 +1,5 @@
 //DataTypes
-/** 
+/** (Primitive)
  * Strings : Sequence of characters inside "" /''/ backticks   
  * Numbers : Integers, floating point numbers
  * Boolean : true/false 0/1
@@ -79,3 +79,7 @@ console.log(roof, typeof roof);
 // script.js:75 ƒ roof() {
 //     console.log('first');
 // } 'function'
+
+//Primitive v/s Reference types
+//Primitive Types: Stored directly in the "stack", where it is accessed from 
+//Reference types: Stored in heaps and accessed by reference
