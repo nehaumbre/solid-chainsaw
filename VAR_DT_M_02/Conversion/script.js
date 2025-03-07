@@ -28,6 +28,12 @@ console.log("first"/3);
 // arithmetic [+(add) -(subtract) *(multiply) /(divide) %(mod) **(exponential)]
 let x =3**3; //op=>27
 console.log(x);
+//Concatination
+
+let r, e;
+r = 'Hello' + " " + 'world';
+e = "solve";
+console.log(r + " " + e);
 
 //  comparison, 
 // logical, and 
